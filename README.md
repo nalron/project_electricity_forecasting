@@ -2,6 +2,8 @@
 ### Projet du parcours de formation Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
 Projet de prédiction d'électricité en France à partir de données réelles. Manipulation de données, modélisation de type régression linéaire, ainsi que différentes modélisations de séries temporelles (Holt-Winters, SARIMA).
 
+![Sarima](p9_graphic/sarima_prevision2019.jpg)
+
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook. Traitement effectué (correction de l'effet température, désaisonnalisation, etc.), représentation graphique des séries temporelles, avant et après traitement.
