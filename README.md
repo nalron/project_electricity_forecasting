@@ -1,5 +1,5 @@
 # Projet : Prédiction de la demande en électricité sur le marché français
-### Projet du parcours Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
+### Projet du parcours Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet de prédiction d'électricité en France à partir de données réelles. Manipulation de données, modélisation de type régression linéaire, ainsi que différentes modélisations de séries temporelles (Holt-Winters, SARIMA).
 
 ![Sarima](p9_graphic/sarima_prevision2019.jpg)
